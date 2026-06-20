@@ -4,3 +4,7 @@ Browser plugin  app to monitors obscene images on web and social platforms and b
 **Instructions:**
 
 Load manifest.json file in firefox browser at temporary plugin page to run the plugin
+
+**Supported Browsers:**
+
+Firefox, Opera
