@@ -1,5 +1,5 @@
-# Obscene Detection Browser-plugin
-It is a browser plugin  app to monitors obscene images on web and social platforms and blocks them.
+# Deepfakes Detection Browser-plugin
+Browser plugin  app to monitors obscene images on web and social platforms and blocks them.
 
 **Instructions:**
 
